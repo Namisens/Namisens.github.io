@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Metalscope Foil Thickness.exe" version="3.1.0.27" publicKeyToken="7eac45f39e1c4de6" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Metalscope Foil Thickness.exe" version="3.1.0.28" publicKeyToken="7eac45f39e1c4de6" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Resources\ic_launcher.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -1683,22 +1683,22 @@
       <dsig:DigestValue>hmCzidmXKVdpOjEjoqT1QX3COGzVehQ9RSl7Jczq6nY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Metalscope Foil Thickness.dll" size="286688">
+  <file name="Metalscope Foil Thickness.dll" size="286176">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>MAeo3osE6K14OEmKyLBEBx0wuIDnNSdczrXS8PR9L4Q=</dsig:DigestValue>
+      <dsig:DigestValue>VmN0Cwn5KY242rsI1caX3+OFFP1I7qOPVNrd4c+LoLs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Metalscope Foil Thickness.exe" size="153056">
+  <file name="Metalscope Foil Thickness.exe" size="153568">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>g9C/lUg9QB3aIMfN22u6PeDnG/ODPg1IhbtA1ZUQE/Q=</dsig:DigestValue>
+      <dsig:DigestValue>ua658RObgGxjJ5oHJqh562fQIbE0m59mQKhMzrghBEo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Metalscope Foil Thickness.runtimeconfig.json" size="382">
@@ -1725,7 +1725,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6QwydohTMZQS5GZUIG1DsbKDA8PYVYZnkqrT/EX2lHQ=</dsig:DigestValue>
+      <dsig:DigestValue>9vUwjPQMCk8l/h3jl7V3KNvc39LrrbkaXXNq3YMFLwM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Microsoft.CSharp.dll" size="1042560">
@@ -1869,7 +1869,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>I4Iz6CEPKWe9x7zV6D1pj3TpHgKcu0l55pm3gh2CD6A=</dsig:DigestValue>
+      <dsig:DigestValue>0d12/L3PK+qzIL5mVoolDht81tcmY+0ajdVTAiAOXaw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="netstandard.dll" size="101544">
@@ -4770,4 +4770,4 @@
       <dsig:DigestValue>W/Qn2bTIwVc6foc4KRWWlrbBX8z3uS625rD7ApdahEY=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=AzureAD\NicolasEnnaji" issuerKeyHash="015b8cb21209365b62db8ba3b07cfc48b0075347" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rvkoJ7y5uKP9o4BCliasGalUgDmw/N2UNkuj66DMoC8=</DigestValue></Reference></SignedInfo><SignatureValue>rNi5eIs7gl5o3ruH+/oA0eDrlETZP0MvCiFB6pp4bl0TH2tNBLJazvKzBAnEaCnxqR3Wu0QMk3rxX3l91R4oRPfGVin8dIXba3OxwBRHoWAtlXv2l8e3ObvnlYxvKbHHREPw0IjfI152S1YmVflZS0w0Hhi7vkylDsYQxiJE12A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zYuYsidPn+rt4Jb2/ZaGXicxzVwKfQBEhH13wVc5d8W3jM3fjIFNacGlLZx90YU2Fac6XPbFLpvVVUDUrquwCf1rdkOFbAav3FU8mVk278SbVa9RODaoIXgPM8YT5wtJl5ah96MOPG/X5/1fAdpgLuM63CatxI7Hmtoc+zthV8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2fa0cca0eba34b3694ddfcb0398054a919ac26964280a3fda3b8b9bc2728f9ae" Description="" Url=""><as:assemblyIdentity name="Metalscope Foil Thickness.exe" version="3.1.0.27" publicKeyToken="7eac45f39e1c4de6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AzureAD\NicolasEnnaji</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>h4J/M2tU7S3CTjJQ/3v1pdbtorcfevmYnwQjORIU2G4=</DigestValue></Reference></SignedInfo><SignatureValue>c4oGfzmO3HCf2lZ7kzf0CIHfIcLCZmJxzNs9iuw9qEA0mBpiBXc3FsFH3FYU8vHVdOO07HnT2L5AEmGggC1IcR06Y+AmrFGsPl/DyHMUt7Va36o+IjTQOt6tqkxCXiCEiTY67hohy2iUT5feLL/xKaulmHMTvyyI+Cm7y48vyHk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zYuYsidPn+rt4Jb2/ZaGXicxzVwKfQBEhH13wVc5d8W3jM3fjIFNacGlLZx90YU2Fac6XPbFLpvVVUDUrquwCf1rdkOFbAav3FU8mVk278SbVa9RODaoIXgPM8YT5wtJl5ah96MOPG/X5/1fAdpgLuM63CatxI7Hmtoc+zthV8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQOp2aTg+oV7FDESiF539iqTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioAQQB6AHUAcgBlAEEARABcAE4AaQBjAG8AbABhAHMARQBuAG4AYQBqAGkwHhcNMjIxMjA1MTIzNjU2WhcNMjMxMjA1MTgzNjU2WjA1MTMwMQYDVQQDHioAQQB6AHUAcgBlAEEARABcAE4AaQBjAG8AbABhAHMARQBuAG4AYQBqAGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM2LmLInT5/q7eCW9v2Whl4nMc1cCn0ARIR9d8FXOXfFt4zN34yBTWnBpS2cfdGFNhWnOlz2xS6b1VVA1K6rsAn9a3ZDhWwGr9xVPJlZNu/Em1WvUTg2qCF4DzPGE+cLSZeWofejDjxv1+f9XwHaYC7jOtwmrcSOx5raHPs7YVfBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEATLAuhB8V5KunQcVz82q4gBijYT4H+m9RaFQbUqusvB8qJGUGvRPjqQWe6bb1rkBiR54h+7duIVnqOCkoOGucOazRLKUfCCKB1V1sspjUsTFihZT8fNJLXNTlKKjoU0StJkQ1riYWXx1iQEPPMjP6OyCHnUpHUdo273VhvEqtcTo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=AzureAD\NicolasEnnaji" issuerKeyHash="015b8cb21209365b62db8ba3b07cfc48b0075347" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Wv1JoiXnjtlF35a424zErjcDigEhkpfplShRJVxM77E=</DigestValue></Reference></SignedInfo><SignatureValue>uvefsbtwJEP0mzxvBaW6Vk2C62VXA440bgXamndN8a1UiWSQ8ZjUUus7j1Egq+ljWk59i/sDGTpUl7IoiQFb89Xo54GuSVyc4ZogejhN+f00j5+7ijaHpA3/TJq5Ysr7wm/SXiZ52pXAwKHoEgTByO7tffwXjqpXlo+xLqk7Hcc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zYuYsidPn+rt4Jb2/ZaGXicxzVwKfQBEhH13wVc5d8W3jM3fjIFNacGlLZx90YU2Fac6XPbFLpvVVUDUrquwCf1rdkOFbAav3FU8mVk278SbVa9RODaoIXgPM8YT5wtJl5ah96MOPG/X5/1fAdpgLuM63CatxI7Hmtoc+zthV8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b1ef4c5c25512895e9979221018a0337aec48cdbb896df45d98ee725a249fd5a" Description="" Url=""><as:assemblyIdentity name="Metalscope Foil Thickness.exe" version="3.1.0.28" publicKeyToken="7eac45f39e1c4de6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AzureAD\NicolasEnnaji</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qE9jUPaLFOu1s2C6P+9N2s1rFlIWPIusFLxLUowBmtM=</DigestValue></Reference></SignedInfo><SignatureValue>AYL0rHMD9pDLWvTcC+IoycI8U49g7d3F9oV45IaUMLl6Ahni/1KROLYVyH8XrzT0i2Tm1cEIRnFZP/dPyN1PCN4Soqs13gYhirkXF/DAxEr6vW4QYp996+Jz+ImEBP9m+yanLArWTX1VlGfyerk321ucP90sXWMOW24+5Z0pe7s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zYuYsidPn+rt4Jb2/ZaGXicxzVwKfQBEhH13wVc5d8W3jM3fjIFNacGlLZx90YU2Fac6XPbFLpvVVUDUrquwCf1rdkOFbAav3FU8mVk278SbVa9RODaoIXgPM8YT5wtJl5ah96MOPG/X5/1fAdpgLuM63CatxI7Hmtoc+zthV8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQOp2aTg+oV7FDESiF539iqTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioAQQB6AHUAcgBlAEEARABcAE4AaQBjAG8AbABhAHMARQBuAG4AYQBqAGkwHhcNMjIxMjA1MTIzNjU2WhcNMjMxMjA1MTgzNjU2WjA1MTMwMQYDVQQDHioAQQB6AHUAcgBlAEEARABcAE4AaQBjAG8AbABhAHMARQBuAG4AYQBqAGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM2LmLInT5/q7eCW9v2Whl4nMc1cCn0ARIR9d8FXOXfFt4zN34yBTWnBpS2cfdGFNhWnOlz2xS6b1VVA1K6rsAn9a3ZDhWwGr9xVPJlZNu/Em1WvUTg2qCF4DzPGE+cLSZeWofejDjxv1+f9XwHaYC7jOtwmrcSOx5raHPs7YVfBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEATLAuhB8V5KunQcVz82q4gBijYT4H+m9RaFQbUqusvB8qJGUGvRPjqQWe6bb1rkBiR54h+7duIVnqOCkoOGucOazRLKUfCCKB1V1sspjUsTFihZT8fNJLXNTlKKjoU0StJkQ1riYWXx1iQEPPMjP6OyCHnUpHUdo273VhvEqtcTo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
